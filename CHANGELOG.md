@@ -4,6 +4,11 @@ Changes to the Glacier Thickness Database (GlaThiDa) will be documented in this 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html), adapted for data. Given a version number `major.minor.patch`, increment the `major` version when data is added, increment the `minor` version when existing data is changed, and increment the `patch` version when metadata is changed (but data is left unchanged).
 
+## Development
+
+### Data: Fixed
+- Change `POLITICAL_UNIT` (`T`, `TTT`) from "SJ" (Svalbard and Jan Mayen) to "NO" (Norway) [218, 342-345, 433-434, 2057-2063, 2065-2071].
+
 ## 3.0.1 (2019-03-12)
 
 ### Structure: Fixed

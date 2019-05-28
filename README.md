@@ -2,9 +2,9 @@
 
 This dataset adheres to the Frictionless Data [Tabular Data Package](https://frictionlessdata.io/specs/tabular-data-package/) specification. All metadata is provided in `datapackage.json`. This README is automatically generated from the contents of that file.
 
-  - `version` 3.0.1
-  - `created` 2019-03-12
-  - `id` https://doi.org/10.5904/wgms-glathida-2019-03
+  - `version` 3.0.1+fixes
+  - `created` 
+  - `id` glathida-development
   - `description` Internationally collected, standardized dataset on glacier thickness from in-situ and remotely sensed observations, based on data submissions, literature review and airborne data from NASA’s Operation IceBridge.
 
   GlaThiDa is a contribution to the working group on Glacier ice thickness estimation (http://www.cryosphericsciences.org/wg_glacierIceThickEst.html), which was formed under the auspices of the International Association of Cryospheric Sciences (IACS). The working group – led by Daniel Farinotti, Liss Marie Andreassen and Huilin Li – will ensure the continuation and expansion of GlaThiDa.

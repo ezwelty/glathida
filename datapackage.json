@@ -1,9 +1,9 @@
 {
   "name": "glathida",
-  "version": "3.0.1",
-  "created": "2019-03-12",
+  "version": "3.0.1+fixes",
+  "created": "",
   "title": "Glacier Thickness Database (GlaThiDa)",
-  "id": "https://doi.org/10.5904/wgms-glathida-2019-03",
+  "id": "glathida-development",
   "description": "Internationally collected, standardized dataset on glacier thickness from in-situ and remotely sensed observations, based on data submissions, literature review and airborne data from NASA’s Operation IceBridge.\n\nGlaThiDa is a contribution to the working group on Glacier ice thickness estimation (http://www.cryosphericsciences.org/wg_glacierIceThickEst.html), which was formed under the auspices of the International Association of Cryospheric Sciences (IACS). The working group – led by Daniel Farinotti, Liss Marie Andreassen and Huilin Li – will ensure the continuation and expansion of GlaThiDa.\n\nThe data might be subject to errors and inaccuracies. Hence, we strongly suggest performing data quality checks and, in case of ambiguities, to contact us as well as the original investigators and agencies.",
   "homepage": "https://www.gtn-g.ch/data_catalogue_glathida/",
   "profile": "tabular-data-package",
