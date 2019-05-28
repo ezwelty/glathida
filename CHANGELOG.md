@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Data: Fixed
 - Change `POLITICAL_UNIT` (`T`, `TTT`) from "SJ" (Svalbard and Jan Mayen) to "NO" (Norway) [218, 342-345, 433-434, 2057-2063, 2065-2071].
+- Change `TTT.ELEVATION` from "9999" or "10000" to missing [2218, 2377, 2446, 2471, 2477].
 
 ## 3.0.1 (2019-03-12)
 

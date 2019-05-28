@@ -13,3 +13,9 @@ for (name in names(tables)) {
     dplyr::mutate(POLITICAL_UNIT = replace(POLITICAL_UNIT, GlaThiDa_ID %in% ids, "NO"))
 }
 write_tables(tables, path = 'data')
+
+# Change ELEVATION from "9999" / "100000" to missing
+tables <- read_tables('data')
+mask <- with(tables$TTT, ELEVATION >= 9999 & !is.na(ELEVATION))
+tables$TTT$ELEVATION[mask] <- NA
+write_tables(tables, path = 'data')
