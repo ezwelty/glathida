@@ -940,7 +940,7 @@
             "required": false
           },
           {
-            "name": "`DATA_FLAG`",
+            "name": "DATA_FLAG",
             "title": "Data flag",
             "description": "Whether ice thickness is erroneous or limited to parts of the elevation interval. Issues specific to the elevation interval should be described in `REMARKS` while issues common to all elevation intervals should be described in `T.REMARKS`.\n\n- 1: Erroneous ice thickness\n- 2: Ice thickness limited to parts of elevation interval\n- 3: Other issue",
             "type": "integer",
