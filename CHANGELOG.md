@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Structure: Fixed
 - Remove spurious backquotes (\`) from the name for `TT.DATA_FLAG`.
+- Remove pseudo-unit "#" from the title for `T.NUMBER_OF_SURVEY_PROFILES`.
 
 ## 3.0.1 (2019-03-12)
 

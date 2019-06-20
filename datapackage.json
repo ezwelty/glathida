@@ -755,7 +755,7 @@
           },
           {
             "name": "NUMBER_OF_SURVEY_PROFILES",
-            "title": "Number of survey profiles (#)",
+            "title": "Number of survey profiles",
             "description": "Total number of survey profiles taken. Should be equal to either the number of listed profiles (i.e. the number of unique values of `TTT.PROFILE_ID`), the number of profiles originally surveyed, or the number of profiles used to estimate the mean thickness over the glacier (`T.MEAN_THICKNESS`) or elevation intervals (`TT.MEAN_THICKNESS`). The specific meaning should be given in `REMARKS`.",
             "type": "integer",
             "minimum": 0,
